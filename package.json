@@ -1,0 +1,20 @@
+{
+  "name": "super_transition",
+  "version": "1.0.0",
+  "description": "vue h5 切换页面过渡动画插件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "transition",
+    "h5",
+    "切页过渡动画"
+  ],
+  "author": "coder_chen",
+  "license": "ISC",
+  "dependencies": {
+    "animate.css": "^4.1.1"
+  }
+}
