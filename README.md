@@ -24,5 +24,4 @@ Vue.use(superTansition)
 
 * 动画基于`animate.css`切换顺滑
 * 使用简单直接包裹在`router-view`组件外层即可，如需再像使用`<transition>`一般监听动作修改动画名称等冗余且麻烦的操作
-* 体积小，插件本身大小仅为1k
-
+* 体积小，插件本身大小仅为1kb
