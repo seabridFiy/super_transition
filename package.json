@@ -1,6 +1,6 @@
 {
   "name": "super_transition",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "vue h5 切换页面过渡动画插件",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,16 @@
   ],
   "author": "coder_chen",
   "license": "ISC",
+
   "dependencies": {
     "animate.css": "^4.1.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seabridFiy/super_transition.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seabridFiy/super_transition/issues"
+  },
+  "homepage": "https://github.com/seabridFiy/super_transition#readme"
 }

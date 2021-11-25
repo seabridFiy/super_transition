@@ -1,4 +1,4 @@
-import SuperTransition from './components/superTransiton.vue'
+import SuperTransition from './components/superTransition.vue'
 import 'animate.css'
 const vTransition = {
   install(Vue) {
