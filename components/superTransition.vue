@@ -70,6 +70,9 @@ export default {
 </script>
 
 <style scoped>
+.super-transiton {
+  height: 100%;
+}
 .base_animate {
   width: 100vw;
   height: 100vh;

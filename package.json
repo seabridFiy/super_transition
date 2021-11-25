@@ -1,6 +1,6 @@
 {
   "name": "super_transition",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "vue h5 切换页面过渡动画插件",
   "main": "index.js",
   "scripts": {
